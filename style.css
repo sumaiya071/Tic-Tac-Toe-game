@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: rgb(224, 149, 206);
+    background-image: url(./public/img/3d-rendering-neon-square-shape.jpg);
     text-align: center;
     animation: mymove 5s infinite;
 } 
